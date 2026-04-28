@@ -169,8 +169,6 @@ It helps in understanding how java interact with file and how data can be manage
 ##Output
 [CODTECH.IT.SOLUTIONS.docx](https://github.com/user-attachments/files/27171264/CODTECH.IT.SOLUTIONS.docx)
 
-tachments/assets/7ce48956-2bd4-4031-acb7-c77b8e98b83f" />
-
 <img width="1618" height="910" alt="Image" src="https://github.com/user-attachments/assets/7d31a1a1-df7e-4e8a-a1f1-571c68b11298" />
 
 <img width="1617" height="911" alt="Image" src="https://github.com/user-attachments/assets/a4582f5b-7f03-4188-8c7b-3ef5daf28128" />
