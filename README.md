@@ -11,6 +11,7 @@ DOMAIN:JAVA PROGRAMMING
 DURATION:12 WEEKS
 
 MENTOR:NEELA SANTOSH 
+
 ## File handaling in java means creating, reading, writing and deleting files. It is very useful when you want to store data permanently instead of keeping it only in memory. for example, saving user details,logs, or report in a file.
 in java, file handaling is done using classes from the java.io package.
 File handaling is important for to store data permanently, to read data later, to share data between programs, to maintain records.
@@ -166,7 +167,7 @@ The Project demonstrates the implementation of file handaling operations in java
 It helps in understanding how java interact with file and how data can be managed efficiently using file handling techniques.
 
 ##Output
-[CODTECH IT SOLUTIONS.docx](https://github.com/user-attachments/files/26400149/CODTECH.IT.SOLUTIONS.docx)
+[CODTECH.IT.SOLUTIONS.docx](https://github.com/user-attachments/files/27171264/CODTECH.IT.SOLUTIONS.docx)
 
 tachments/assets/7ce48956-2bd4-4031-acb7-c77b8e98b83f" />
 
